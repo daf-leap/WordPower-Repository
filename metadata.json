@@ -1,0 +1,5 @@
+{
+  "name": "Session Delivery Calendar",
+  "description": "A simple calendar to track session delivery days for Daf and Tom. It displays only working days for the upcoming months and allows marking sessions with distinct colors.",
+  "requestFramePermissions": []
+}
